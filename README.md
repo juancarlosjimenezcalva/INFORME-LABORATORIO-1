@@ -44,15 +44,77 @@ Por tanto, en forma matemática, la segunda ley se expresa como:
 
 ## EXPLICACIÓN DEL PROCEDIMIENTO
 
-En este punto se debe explicar cómo funcionan la implementación del circuito y los cálculos de respaldo.
+### ELABORACIÓN DEL CIRCUITO
 
-Los diagramas hacen referencia a una representación visual de lo que se ha desarrollado enfocado al software y al hardware. Los diagramas son:
+#### MATERIALES
 
-Diagramas de bloques.
-Diagramas UML. (casos de uso-clase)
-Diagramas eléctricos.
-Diagramas esquemáticos.
-Adicionalmente para el caso de diagramas eléctricos se debe hacer la explicación de los circuitos.
+![image](https://user-images.githubusercontent.com/105565683/170573455-396becb9-ac8a-4332-a667-97279cda64c0.png)
+
+![image](https://user-images.githubusercontent.com/105565683/170573893-f8a09d37-542f-4f40-895a-874e9155bdde.png)
+
+#### PROCESO
+
+1)	Ubicamos las resistencias como se muestra en el esquema del circuito.
+
+![image](https://user-images.githubusercontent.com/105565683/170574224-c2d3e048-fc8e-4bad-8fd8-58ea73923f35.png)
+
+2)	Conectar las resistencias por medio de los cables de acuerdo con el esquema, que cumpla con el circuito mixto.
+
+![image](https://user-images.githubusercontent.com/105565683/170574704-9c6e507c-7d7b-428a-908a-2308ac19e6ce.png)
+
+3)	Conectamos la fuente de voltaje C.D. (en caso de simulador), de acuerdo al esquema, en los polos positivo y negativo de las resistencias.
+
+![image](https://user-images.githubusercontent.com/105565683/170575296-5d6443f1-a0bf-452b-9aee-1c2c56123b97.png)
+
+### CALCULO DE LOS VOLTAJES Y CORRIENTES
+
+![image](https://user-images.githubusercontent.com/105565683/170568728-db5ac8de-ce04-4c03-8d8b-0ab5a3195fc3.png)
+
+Basándonos en el esquema de circuitos, podemos ver que las resistencias R1 de 1 kΩ y R5 de 1.8 KΩ están conectadas directamente al suministrador de energía de 5 V, que genera una corriente de 1.03 mA. 
+
+Calculamos el voltaje para R1 y R5 basándonos en la ley de ohm.
+
+![image](https://user-images.githubusercontent.com/105565683/170568960-1e502aea-9675-41d8-bfce-49cabded17ef.png)
+
+Teniendo en cuenta que es un circuito mixto, R2 tiene una corriente distinta a R1 y R5. La calculamos de forma independiente, con ley de ohm.
+
+![image](https://user-images.githubusercontent.com/105565683/170569082-6ed2c569-5925-478a-8c3f-7ca30b1be591.png)
+
+Como R2, R3 y R4 conforman la segunda parte del circuito en forma paralela, siendo un circuito en serie R3 y R4 por los nodos, en este caso R2 es aquel que proporciona energía para R3 y R4.
+
+![image](https://user-images.githubusercontent.com/105565683/170569445-4197477b-2655-4aeb-ba18-2830f2b63eac.png)
+
+### CALCULOS DE LA LEY DE VOLTAJE DE KIRCHHOFF
+
+Teniendo en cuenta el esquema del circuito, podemos trazar tres trayectorias:
+
+![image](https://user-images.githubusercontent.com/105565683/170569663-933b638b-68d1-4089-a0db-cf668df99634.png)
+
+![image](https://user-images.githubusercontent.com/105565683/170569876-68d0e2e6-c4a1-4ca9-bce7-031e71731bc6.png)
+
+![image](https://user-images.githubusercontent.com/105565683/170569996-3934bb32-8f5f-476f-9a37-0fd2fc6cad28.png)
+
+![image](https://user-images.githubusercontent.com/105565683/170570121-6909738a-7c25-4746-a1f3-f3ae2c781429.png)
+
+![image](https://user-images.githubusercontent.com/105565683/170570237-fc991b9d-80a1-436c-811e-0de7438a4b0e.png)
+
+### CALCULOS DE LA LEY DE CORRIENTE DE KIRCHHOFF
+
+Teniendo en cuenta el esquema del circuito ubicamos 5 nodos
+
+![image](https://user-images.githubusercontent.com/105565683/170570390-a7614fcd-7868-4a7f-a481-758dade672af.png)
+
+![image](https://user-images.githubusercontent.com/105565683/170570755-d57833f3-ac90-4be2-8297-a77dd1c8ca7d.png)
+
+![image](https://user-images.githubusercontent.com/105565683/170570903-7d5a2406-32a3-47d8-b6a6-b7923c92fd57.png)
+
+![image](https://user-images.githubusercontent.com/105565683/170570971-7acbf8fd-2210-4f7c-8cb6-1cdd4167c3f4.png)
+
+![image](https://user-images.githubusercontent.com/105565683/170571033-0484cb25-d6d3-431e-b375-9f19c474bfba.png)
+
+![image](https://user-images.githubusercontent.com/105565683/170571107-cfc4220f-b827-4381-8023-218955808a3b.png)
+
+![image](https://user-images.githubusercontent.com/105565683/170571182-24b26372-26a6-464b-871c-75ef52b9c03a.png)
 
 ## RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
