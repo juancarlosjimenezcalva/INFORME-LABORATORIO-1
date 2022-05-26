@@ -140,7 +140,11 @@ Teniendo en cuenta el esquema del circuito ubicamos 5 nodos
 
 ![image](https://user-images.githubusercontent.com/105565683/170579694-7a77af8a-7126-4d5f-b97f-5156fde2edf6.png)
 
+### RESULTADOS
 
+Los valores calculados y obtenidos, cumplen con la ley de voltaje de kirchoff de que La suma de las caídas de voltaje en una trayectoria cerrada es igual a la suma de las elevaciones de voltaje en la misma, de igual manera los valores cumplen con la ley de corriente de kircchhoff en que La suma de las corrientes que entran a un nodo es igual a la suma de las corrientes que salen del mismo. 
+
+Respecto al margen de error, se reduce a milésimas, puesto que el simulador TINKERCAD, tiende a redondear los resultados a dos decimales, pero en un espectro general, los valores tanto calculados como medidos, son los mismos.
 
 ## VIDEO
 
