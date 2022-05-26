@@ -2,7 +2,14 @@
 
 ## OBJETIVOS
 
+### OBJETIVO GENERAL
 
+Analizar el funcionamiento y aplicación de las leyes de Kirchhoff, por medio de la elaboración de un circuito eléctrico utilizando herramientas digitales, para demostrar como se aplican los postulados de Kirchhoff por medio de cálculos previos y mediciones aplicadas.
+
+### OBJETIVOS ESPECIFICOS
+
+-	Elaborar un circuito eléctrico mixto en TINKERCAD.
+-	Comprobar que el circuito cumpla con las leyes de voltaje y corriente de Kirchhoff de manera teórica y práctica.
 
 ## MARCO TEÓRICO
 
@@ -57,7 +64,8 @@ En este punto se contestará todo lo planteado en las guías.
 
 ## CONCLUSIONES
 
-
+- En el circuito eléctrico se utilizó un análisis y comprensión adecuado del esquema del circuito, por medio de materiales adecuados, para que el circuito cumpliera con todo lo solicitado.
+- Se determino que el circuito eléctrico cumple con todas las leyes de Kirchhoff, tanto en los cálculos previos, como en los resultados obtenidos de las mediciones.
 
 ## BIBLIOGRAFÍA
 
