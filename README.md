@@ -118,7 +118,29 @@ Teniendo en cuenta el esquema del circuito ubicamos 5 nodos
 
 ## RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
-En este punto se contestará todo lo planteado en las guías.
+### MEDICIONES DE VOLTAJE Y CORRIENTE
+
+1. Mido el voltaje en cada elemento del circuito con el multímetro.
+
+![image](https://user-images.githubusercontent.com/105565683/170576301-8fb5f6cf-294e-484a-8e82-ea653017ef3b.png)
+
+2. Mido la corriente en cada elemento del circuito con el multímetro. 
+
+![image](https://user-images.githubusercontent.com/105565683/170576423-b057b9a9-6c82-4016-8205-96e0462a50a2.png)
+
+3. Comparo los resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
+
+![image](https://user-images.githubusercontent.com/105565683/170576640-64b676bb-5cde-4369-8f48-6afb2de4a6e2.png)
+
+4. Verifico si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo.
+
+![image](https://user-images.githubusercontent.com/105565683/170576972-15fad499-446f-40f9-9855-86aa8d4ddce8.png)
+
+5. Verifico si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando con signo positivo las corrientes que entran al nodo y con signo negativo las que salen del nodo.
+
+![image](https://user-images.githubusercontent.com/105565683/170579694-7a77af8a-7126-4d5f-b97f-5156fde2edf6.png)
+
+
 
 ## VIDEO
 
