@@ -124,9 +124,9 @@ Teniendo en cuenta el esquema del circuito ubicamos 5 nodos
 
 ![image](https://user-images.githubusercontent.com/105565683/171633110-f95d3da7-79b1-4fc0-a66c-204cc35b218a.png)
 
-2. Medir la corriente en cada elemento del circuito con el multímetro. (La imagen es meramente ilustrativa)
+2. Medir la corriente en cada elemento del circuito con el multímetro. (La imagen es meramente ilustrativa con todas las corrientes)
 
-![image](https://user-images.githubusercontent.com/105565683/171662165-294c3f2e-38b7-437f-9583-4e4c0ec4c825.png)
+![image](https://user-images.githubusercontent.com/105565683/171662805-1c3357e0-027f-4b39-a197-a20321ef066a.png)
 
 3. Comparar los resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
 
