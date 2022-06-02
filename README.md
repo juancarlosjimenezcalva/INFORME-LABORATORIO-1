@@ -60,11 +60,11 @@ Por tanto, en forma matemática, la segunda ley se expresa como:
 
 2)	Conectar las resistencias por medio de los cables de acuerdo con el esquema, que cumpla con el circuito mixto.
 
-![image](https://user-images.githubusercontent.com/105565683/170574704-9c6e507c-7d7b-428a-908a-2308ac19e6ce.png)
+![image](https://user-images.githubusercontent.com/105565683/171632709-96dc8a38-1730-484c-8680-d555236b3155.png)
 
 3)	Conectamos la fuente de voltaje C.D. (en caso de simulador), de acuerdo al esquema, en los polos positivo y negativo de las resistencias.
 
-![image](https://user-images.githubusercontent.com/105565683/170575296-5d6443f1-a0bf-452b-9aee-1c2c56123b97.png)
+![image](https://user-images.githubusercontent.com/105565683/171632440-68f86a13-2221-478d-b5c1-3e6a45813b80.png)
 
 ### CALCULO DE LOS VOLTAJES Y CORRIENTES
 
@@ -122,7 +122,7 @@ Teniendo en cuenta el esquema del circuito ubicamos 5 nodos
 
 1. Medir el voltaje en cada elemento del circuito con el multímetro.
 
-![image](https://user-images.githubusercontent.com/105565683/170576301-8fb5f6cf-294e-484a-8e82-ea653017ef3b.png)
+![image](https://user-images.githubusercontent.com/105565683/171633110-f95d3da7-79b1-4fc0-a66c-204cc35b218a.png)
 
 2. Medir la corriente en cada elemento del circuito con el multímetro. 
 
